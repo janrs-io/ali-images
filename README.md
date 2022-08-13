@@ -1,2 +1,2 @@
-# k8s-images
-k8s相关镜像
+# ali-images
+阿里云镜像仓库
