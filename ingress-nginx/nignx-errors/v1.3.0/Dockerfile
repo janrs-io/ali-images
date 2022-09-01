@@ -1,0 +1,1 @@
+From registry.k8s.io/ingress-nginx/nginx-errors:1.3.0
