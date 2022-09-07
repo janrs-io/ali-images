@@ -1,0 +1,1 @@
+From rancher/rancher:v2.6-354c6ecc032db7523be68ae91acef504387efa89-linux-amd64
