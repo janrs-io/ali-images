@@ -1,0 +1,1 @@
+From docker.io/rancher/mirrored-library-traefik:2.6.2

@@ -1,0 +1,1 @@
+From docker.io/rancher/mirrored-pause:3.6

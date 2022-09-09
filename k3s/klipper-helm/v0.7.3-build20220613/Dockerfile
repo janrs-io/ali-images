@@ -1,0 +1,1 @@
+From docker.io/rancher/klipper-helm:v0.7.3-build20220613
