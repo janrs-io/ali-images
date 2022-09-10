@@ -1,1 +1,0 @@
-From quay.io/jetstack/cert-manager-ctl:v1.9.1

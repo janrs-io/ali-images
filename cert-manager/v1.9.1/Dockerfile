@@ -1,1 +1,0 @@
-From bitnami/cert-manager:1.9.1
