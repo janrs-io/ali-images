@@ -1,1 +1,0 @@
-From pachyderm/cert-manager-controller:v0.15.1
