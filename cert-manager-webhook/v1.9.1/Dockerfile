@@ -1,0 +1,1 @@
+From bitnami/cert-manager-webhook:1.9.1
