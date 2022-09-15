@@ -1,1 +1,0 @@
-From bitnami/etcd:latest
