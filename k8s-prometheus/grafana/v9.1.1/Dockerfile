@@ -1,1 +1,0 @@
-From grafana/grafana:9.1.1

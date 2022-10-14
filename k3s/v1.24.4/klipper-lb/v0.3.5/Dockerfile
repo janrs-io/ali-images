@@ -1,1 +1,0 @@
-From docker.io/rancher/klipper-lb:v0.3.5

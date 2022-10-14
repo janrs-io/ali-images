@@ -1,1 +1,0 @@
-From quay.io/brancz/kube-rbac-proxy:v0.13.0

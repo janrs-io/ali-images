@@ -1,1 +1,0 @@
-From docker.io/rancher/mirrored-metrics-server:v0.5.2

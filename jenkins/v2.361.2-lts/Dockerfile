@@ -1,1 +1,0 @@
-From jenkins/jenkins:2.361.2-lts

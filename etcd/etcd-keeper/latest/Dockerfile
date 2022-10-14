@@ -1,1 +1,0 @@
-From deltaprojects/etcdkeeper:latest

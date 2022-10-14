@@ -1,1 +1,0 @@
-From docker.io/rancher/mirrored-library-busybox:1.34.1
