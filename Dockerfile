@@ -1,1 +1,1 @@
-From jenkins/jenkins:2.373
+From docker.io/istio/pilot:1.15.3
