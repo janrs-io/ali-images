@@ -1,1 +1,1 @@
-From docker.io/istio/pilot:1.15.3
+From quay.io/metallb/controller:v0.13.7
