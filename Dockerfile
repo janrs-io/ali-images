@@ -1,1 +1,1 @@
-From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
+From quay.io/prometheus/prometheus:v2.32.1
