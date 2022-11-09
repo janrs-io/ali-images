@@ -1,1 +1,1 @@
-From quay.io/metallb/controller:v0.13.7
+From quay.io/prometheus-operator/prometheus-operator:v0.60.1
