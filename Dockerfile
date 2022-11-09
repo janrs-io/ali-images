@@ -1,1 +1,1 @@
-From quay.io/prometheus-operator/prometheus-config-reloader:v0.60.1
+From registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
