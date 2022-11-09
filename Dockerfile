@@ -1,1 +1,1 @@
-From quay.io/prometheus/prometheus:v2.39.1
+From quay.io/prometheus/node-exporter:v1.4.0
