@@ -1,1 +1,1 @@
-From quay.io/prometheus-operator/prometheus-config-reloader:v0.60.1
+From image: quay.io/prometheus/node-exporter:v0.17.0
