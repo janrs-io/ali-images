@@ -1,1 +1,1 @@
-From quay.io/brancz/kube-rbac-proxy:v0.11.0
+From grafana/grafana:8.3.3
