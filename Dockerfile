@@ -1,1 +1,1 @@
-From quay.io/prometheus/prometheus:v2.32.1
+From quay.io/prometheus-operator/prometheus-config-reloader:v0.53.1
